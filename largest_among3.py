@@ -8,7 +8,7 @@ if first_number > second_number:
 	if first_number > third_number:
 		print("Largest number : " + str(first_number))
 	else:
-		print("Largest number : " + str(second_number))
+		print("Largest number : " + str(third_number))
 else:
 	if second_number > third_number:
 		print("Largest number : " + str(second_number))
